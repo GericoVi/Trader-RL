@@ -1,2 +1,2 @@
 # Trader-RL
-Experiments with a reinforcement learning agent built for stock/forex trading
+Experiments with reinforcement learning - within a FOREX trading environment
