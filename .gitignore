@@ -1,0 +1,10 @@
+.venv
+journal.txt
+temp_models
+test_harness.py
+models
+results
+__pycache__
+DaskTest.ipynb
+ForexData.ipynb
+.ipynb_checkpoints
