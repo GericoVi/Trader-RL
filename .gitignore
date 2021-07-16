@@ -8,3 +8,6 @@ __pycache__
 DaskTest.ipynb
 ForexData.ipynb
 .ipynb_checkpoints
+.vscode-server
+.gitconfig
+.bash_history
